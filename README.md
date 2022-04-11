@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LISCMAN
-- 👀 I’m interested in Android, Kotlin and deep learning.
+- 👀 I’m interested in Android, Kotlin.
 - 🌱 I’m currently learning Kotlin for Android
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ...
